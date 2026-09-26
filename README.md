@@ -46,6 +46,7 @@ Lab1Web/
 
 ### Penjelasan
 
+
 Pada praktikum ini saya membuat struktur dasar HTML yang menjadi kerangka utama sebuah halaman web. Struktur dasar HTML diperlukan agar browser dapat mengenali dan menampilkan isi halaman dengan benar.
 
 - `<!DOCTYPE html>` digunakan untuk memberi tahu browser bahwa dokumen yang dibuat menggunakan HTML5.
@@ -63,8 +64,12 @@ Pada praktikum ini saya membuat struktur dasar HTML yang menjadi kerangka utama 
 Hasil dari praktikum ini adalah terbentuknya sebuah halaman web dengan struktur HTML dasar. Struktur tersebut dapat dijalankan melalui browser dan menjadi dasar untuk menambahkan berbagai elemen HTML lainnya.
 ![Hasil Membuat Struktur Dasar HTML](Screenshoots/membuat%20struktur%20dasar%20html.png)
 
+
+
 **## 2. Membuat Heading dan Paragraph**
 Penjelasan:
+
+
 Pada praktikum ini saya membuat heading dan paragraph menggunakan HTML. Heading digunakan untuk membuat judul atau subjudul pada halaman web, sedangkan paragraph digunakan untuk menampilkan teks dalam bentuk paragraf.
 <h1> digunakan untuk membuat heading atau judul utama.
 <h2> digunakan untuk membuat heading tingkat kedua.
@@ -80,7 +85,10 @@ Hasil dari praktikum ini adalah halaman web yang menampilkan beberapa tingkatan 
 ![Hasil Membuat Heading dan Paragraph](Screenshoots/membuat%20heading%20dan%20paragraph.png)
 
 **## 3. Formatting Text**
+
 Penjelasan
+
+
 Pada praktikum ini saya mempelajari cara mengatur tampilan teks menggunakan beberapa tag HTML. Formatting text digunakan untuk memberikan penekanan atau membedakan tampilan teks tertentu pada halaman web.
 <b> digunakan untuk membuat teks menjadi tebal (bold).
 <strong> digunakan untuk menunjukkan teks yang memiliki penekanan atau kepentingan.
@@ -97,7 +105,11 @@ Hasil dari praktikum ini adalah teks pada halaman web dapat ditampilkan dengan b
 ![Hasil Formatting Text](Screenshoots/formatting%20text.png)
 
 **## 4. Membuat Hyperlink**
+
+
 Penjelasan
+
+
 Pada praktikum ini saya membuat hyperlink atau tautan menggunakan HTML. Hyperlink digunakan untuk menghubungkan halaman web dengan halaman lain, website lain, atau alamat tertentu yang dapat dikunjungi oleh pengguna.
 <a> digunakan untuk membuat hyperlink atau tautan.
 href merupakan atribut yang digunakan untuk menentukan alamat tujuan dari hyperlink.
@@ -110,6 +122,8 @@ Hasil dari praktikum ini adalah terdapat sebuah hyperlink pada halaman web yang 
 ![Hasil Membuat Hyperlink](Screenshoots/membuat%20hyper%20link.png)
 
 **## 5. Menambahkan Gambar**
+
+
 Penjelasan
 Pada praktikum ini saya menambahkan gambar ke dalam halaman web menggunakan HTML. Gambar dapat membuat tampilan halaman web menjadi lebih menarik dan membantu menyampaikan informasi secara visual.
 <img> digunakan untuk menampilkan gambar pada halaman web.
@@ -124,7 +138,11 @@ hasil
 ![Hasil Menambahkan Gambar](Screenshoots/menambahkan%20gambar.png)
 
 **## 6. Membuat List Html**
+
+
 Penjelasan
+
+
 Pada praktikum ini saya membuat list atau daftar menggunakan HTML. List digunakan untuk menampilkan beberapa item secara berurutan atau tidak berurutan sehingga informasi lebih mudah dibaca.
 <ul> digunakan untuk membuat unordered list, yaitu daftar yang menggunakan tanda seperti bullet.
 <ol> digunakan untuk membuat ordered list, yaitu daftar yang menggunakan nomor atau urutan.
@@ -146,7 +164,11 @@ hasil
 
 
 **## 7. Membuat komentar html**
+
+
 Penjelasan
+
+
 Pada praktikum ini saya membuat komentar dalam HTML. Komentar digunakan untuk memberikan catatan atau keterangan di dalam kode agar lebih mudah dipahami. Komentar tidak akan ditampilkan pada halaman web ketika kode dijalankan di browser.
 <!-- digunakan sebagai tanda awal komentar.
 --> digunakan sebagai tanda akhir komentar.
