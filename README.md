@@ -59,13 +59,15 @@ Pada praktikum ini saya membuat struktur dasar HTML yang menjadi kerangka utama 
 
 ### Hasil
 
-Hasil dari praktikum ini adalah terbentuknya sebuah halaman web dengan struktur HTML dasar. Struktur tersebut dapat dijalankan melalui browser dan menjadi dasar untuk menambahkan berbagai elemen HTML lainnya.
-![Hasil Membuat Struktur Dasar HTML](Screenshoots/membuat%20struktur%20dasar%20html.png)
+Hasil dari praktikum ini adalah terbentuknya sebuah halaman web dengan struktur HTML dasar. Struktur tersebut dapat dijalankan melalui browser.
 
+![Hasil Membuat Struktur Dasar HTML](Screenshots/membuat%20struktur%20dasar%20html.png)
 
+## 2. Membuat Heading dan Paragraph
 
-**## 2. Membuat Heading dan Paragraph**
-Penjelasan:
+### Penjelasan
+
+Pada langkah ini saya membuat heading dan paragraf menggunakan tag HTML.
 
 
 Pada praktikum ini saya membuat heading dan paragraph menggunakan HTML. Heading digunakan untuk membuat judul atau subjudul pada halaman web, sedangkan paragraph digunakan untuk menampilkan teks dalam bentuk paragraf.
