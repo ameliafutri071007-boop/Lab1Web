@@ -22,20 +22,18 @@ Materi yang dipraktikkan meliputi pembuatan struktur dasar HTML, heading dan par
 
 ## Struktur Repository
 
+```text
 Lab1Web/
-│
 ├── images/
-│   └── profile.jpg.jpg
-│
-├── Screenshoots/
-│   ├── formatting text.png
-│   ├── membuat heading dan paragraph.png
-│   ├── membuat hyper link.png
-│   ├── membuat komentar html.png
-│   ├── membuat list html.png
-│   ├── membuat struktur dasar html.png
-│   └── menambahkan gambar.png
-│
+│   ├── profile.jpg
+│   └── Screenshots/
+│       ├── formatting text.png
+│       ├── membuat heading dan paragraph.png
+│       ├── membuat hyperlink.png
+│       ├── membuat komentar html.png
+│       ├── membuat list html.png
+│       ├── membuat struktur dasar html.png
+│       └── menambahkan gambar.png
 ├── index.html
 ├── halaman2.html
 └── README.md
