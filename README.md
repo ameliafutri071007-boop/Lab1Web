@@ -1,6 +1,7 @@
 **LabWeb1**
 
 **Identitas Mahasiswa**
+
 **Naman: Amelia futri**
 **Nim: 312510348**
 **Mata Kuliah:Pemrograman web**
@@ -41,9 +42,6 @@ Lab1Web/
 **#Langkah Praktikum**
 
 ## 1. Membuat Struktur Dasar HTML
-
-### Penjelasan
-
 
 Pada praktikum ini saya membuat struktur dasar HTML yang menjadi kerangka utama sebuah halaman web. Struktur dasar HTML diperlukan agar browser dapat mengenali dan menampilkan isi halaman dengan benar.
 
